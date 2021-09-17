@@ -1,4 +1,4 @@
 # Webchat
 
 
-webchitchatify.netlify.app
+https://webchitchatify.netlify.app/
